@@ -34,7 +34,7 @@ This Power BI project provides a detailed analysis of chocolate sales. The inter
 [View Project Presentation](https://lnkd.in/e8gvc_PK)
 
 
-## SCREENSHOTS
+## DASHBOARD
 <img width="1073" height="611" alt="image" src="https://github.com/user-attachments/assets/b548a6f0-a63f-4f4e-8dc8-936ae97c3212" />
 
 
